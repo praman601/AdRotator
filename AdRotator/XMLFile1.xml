@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisement>
+  <Ad>
+    <ImageUrl>~/Images/google.png</ImageUrl>
+    <NavigateUrl>https://www.google.com/</NavigateUrl>
+    <AlternateText>visit https://www.google.com/</AlternateText>
+    <Impression>10</Impression>
+    <Keyword>Google</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/Images/youtube.jpg</ImageUrl>
+    <NavigateUrl>https://www.youtube.com/</NavigateUrl>
+    <AlternateText>visit https://www.youtube.com/</AlternateText>
+    <Impression>20</Impression>
+    <Keyword>Youtube</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>~/Images/gmail.png</ImageUrl>
+    <NavigateUrl>https://www.gmail.com</NavigateUrl>
+    <AlternateText>visit gmail.com</AlternateText>
+    <Impression>30</Impression>
+    <Keyword>Gmail</Keyword>
+  </Ad>
+  
+  
+  
+</Advertisement>
